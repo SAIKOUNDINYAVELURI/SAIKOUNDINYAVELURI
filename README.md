@@ -29,14 +29,15 @@ I'm a **MERN Stack Developer** and **Data Science Enthusiast**, passionate about
 ### [EventNexus](https://github.com/SAIKOUNDINYAVELURI/EventNexus)  
 Centralized platform for hackathons & internships (Node.js + MySQL + Puppeteer).
 
+### [Stock Price Prediction Dashboard](https://github.com/SAIKOUNDINYAVELURI/Stock_Price_Prediction)  
+Machine learning & deep learning models (XGBoost + LSTM) with an interactive Streamlit dashboard for forecasting stock prices.
+
 ### [Resume Parsing & Candidate Job Matching System](https://github.com/SAIKOUNDINYAVELURI/Resume_Parsing_and_Candidate_Job_Matching_System)  
 NLP-based tool that parses resumes, recommends improvements, matches candidates to relevant job roles, and provides admin-level analytics.
 
 ### [Air-Writing Recognition](https://github.com/SAIKOUNDINYAVELURI/Air_writing)  
 Real-time air-writing using MediaPipe + OpenCV.
 
-### [Stock Price Prediction Dashboard](https://github.com/SAIKOUNDINYAVELURI/Stock_Price_Prediction)  
-Machine learning & deep learning models (XGBoost + LSTM) with an interactive Streamlit dashboard for forecasting stock prices.
 
 ---
 
