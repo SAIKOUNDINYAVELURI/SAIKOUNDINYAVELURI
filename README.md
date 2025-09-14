@@ -20,11 +20,17 @@
 ## ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)  
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
+
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?logo=anaconda&logoColor=white)
 
 ---
