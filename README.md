@@ -1,6 +1,6 @@
 # Hi, I'm Sai Koundinya Veluri  👋
 
-I'm a **MERN Stack Developer** and **Data Science Enthusiast**, passionate about building scalable applications and integrating AI/ML into real-world solutions.
+I'm a **Full  Stack Developer** and **Data Science Enthusiast**, passionate about building scalable applications and integrating AI/ML into real-world solutions.
 
 ---
 
