@@ -43,7 +43,8 @@ Real-time air-writing using MediaPipe + OpenCV.
 
 ## 📊 GitHub Stats
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikoundinyaveluri&layout=compact&theme=github_dark)](https://github.com/saikoundinyaveluri)
+[![Top Langs](https://img.shields.io/github/languages/top/saikoundinyaveluri?style=for-the-badge&logo=github)](https://github.com/saikoundinyaveluri)
+
 
 
 ---
