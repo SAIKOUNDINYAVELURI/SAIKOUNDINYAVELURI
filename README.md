@@ -39,14 +39,6 @@ NLP-based tool that parses resumes, recommends improvements, matches candidates 
 Real-time air-writing using MediaPipe + OpenCV.
 
 
----
-
-## 📊 GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikoundinyaveluri&layout=compact&theme=radical)](https://github.com/saikoundinyaveluri)
-
-
-
 
 ---
 
